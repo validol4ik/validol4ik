@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @validol4ik
+- 👋 Hi, I’m Valentyn
 - 👀 I’m interested in web development, web design and 3d models
 - 🌱 I’m currently learning vue3, drupal, golang, web design and blender
 - 💞️ I’m looking to collaborate on 
