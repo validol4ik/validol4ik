@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Valentyn
 - 👀 I’m interested in web development, web design and 3d models
+- 🤵 My portfolio - https://validol4ik.github.io/
 - 🌱 I’m currently learning vue3, drupal, golang, web design and blender
 - 💞️ I’m looking to collaborate on wep startup
 - 📫 How to reach me https://telegram.me/valiidol4ik
