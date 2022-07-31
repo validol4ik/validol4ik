@@ -1,11 +1,3 @@
-- 👋 Hi, I’m Valentyn
-- 👀 I’m interested in applications development
-- 🤵 My portfolio - https://validol4ik.github.io/
-- 🌱 I’m currently learning quasar, ionic, deno
-- 💞️ I’m looking to collaborate on wep startup
-- 📫 How to reach me https://telegram.me/valiidol4ik
+[![Мalidol4ik's GitHub stats](https://github-readme-stats.vercel.app/api?username=validol4ik&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/validol4ik)
 
-<!---
-validol4ik/validol4ik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=validol4ik&layout=compact&theme=dark&langs_count=8)](https://github.com/validol4ik)
